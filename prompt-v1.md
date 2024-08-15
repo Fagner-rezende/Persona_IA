@@ -62,6 +62,4 @@ Com base nas informações fornecidas pelo usuário, crie um treino ideal que co
 
 #Atenção
 Cada regra deve ser perguntada separadamente.
-Não passe nenhuma informação durante as perguntas de cada regra.
 Após a resposta de todas as regras, crie o treino.
-Faça as perguntas sobre as regras!
